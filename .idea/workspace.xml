@@ -38,7 +38,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="47" selection-start="618" selection-end="622" vertical-scroll-proportion="-9.52" vertical-offset="0" max-vertical-offset="2210">
+            <state line="15" column="0" selection-start="577" selection-end="634" vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="2210">
               <folding />
             </state>
           </provider>
@@ -56,7 +56,7 @@
       <file leaf-file-name="bootstrap.sh" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bootstrap.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="0.2849162" vertical-offset="0" max-vertical-offset="716">
+            <state line="28" column="0" selection-start="0" selection-end="832" vertical-scroll-proportion="0.66480446" vertical-offset="0" max-vertical-offset="716">
               <folding />
             </state>
           </provider>
@@ -82,9 +82,9 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/fist_step.txt" />
-        <option value="$PROJECT_DIR$/Vagrantfile" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/checkHTML.html" />
+        <option value="$PROJECT_DIR$/Vagrantfile" />
         <option value="$PROJECT_DIR$/bootstrap.sh" />
       </list>
     </option>
@@ -255,16 +255,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Vagrantfile">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="47" selection-start="618" selection-end="622" vertical-scroll-proportion="-9.52" vertical-offset="0" max-vertical-offset="2210">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/checkHTML.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="7" selection-start="113" selection-end="113" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="238">
@@ -272,9 +262,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Vagrantfile">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="577" selection-end="634" vertical-scroll-proportion="-10.2" vertical-offset="0" max-vertical-offset="2210">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="0.2849162" vertical-offset="0" max-vertical-offset="716">
+        <state line="28" column="0" selection-start="0" selection-end="832" vertical-scroll-proportion="0.66480446" vertical-offset="0" max-vertical-offset="716">
           <folding />
         </state>
       </provider>

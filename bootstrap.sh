@@ -12,6 +12,7 @@ wget -qO- 127.0.0.1
 update-locale LANGUAGE=de_DE.UTF-8 LC_MESSAGES=POSIX
 
 
+
 ### PHP5 Install
 # Add repo for latest PHP
 sudo add-apt-repository -y ppa:ondrej/php5
@@ -21,7 +22,10 @@ sudo apt-get install -y git-core php5 apache2 libapache2-mod-php5 php5-mysql php
 sudo apt-get install libapache2-mod-php5
 sudo /etc/init.d/apache2 restart
 
+###Install Mysql
 sudo apt-get install mysql-server php5-mysql
+sudo apt-get install mysql-client-core-5.5
+
 
 ### PHP Config
 sed -i "s/error_reporting = .*/error_reporting = E_ALL/" /etc/php5/apache2/php.ini
