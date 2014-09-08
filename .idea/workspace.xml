@@ -56,7 +56,7 @@
       <file leaf-file-name="bootstrap.sh" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bootstrap.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.2849162" vertical-offset="0" max-vertical-offset="716">
+            <state line="30" column="42" selection-start="742" selection-end="742" vertical-scroll-proportion="0.6885475" vertical-offset="17" max-vertical-offset="782">
               <folding />
             </state>
           </provider>
@@ -274,7 +274,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="231" selection-end="231" vertical-scroll-proportion="0.2849162" vertical-offset="0" max-vertical-offset="716">
+        <state line="30" column="42" selection-start="742" selection-end="742" vertical-scroll-proportion="0.6885475" vertical-offset="17" max-vertical-offset="782">
           <folding />
         </state>
       </provider>

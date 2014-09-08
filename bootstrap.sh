@@ -10,6 +10,7 @@ wget -qO- 127.0.0.1
 
 ###Set Locale
 update-locale LANGUAGE=de_CH.utf8 LC_MESSAGES=POSIX
+
 ntpdate ntp.ubuntu.com
 
 
@@ -24,10 +25,16 @@ sudo apt-get install libapache2-mod-php5
 sudo /etc/init.d/apache2 restart
 
 ###Install Mysql
-sudo apt-get install mysql-server php5-mysql
+export DEBIAN_FRONTEND=noninteractive
+sudo apt-get -q -y install mysql-server
+sudo apt-get install php5-mysql
 sudo apt-get install mysql-client-core-5.5
 
 
 ### PHP Config
 sed -i "s/error_reporting = .*/error_reporting = E_ALL/" /etc/php5/apache2/php.ini
 sed -i "s/display_errors = .*/display_errors = On/" /etc/php5/apache2/php.ini
+
+
+
+
