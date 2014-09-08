@@ -9,7 +9,8 @@ sudo ln -fs /vagrant /var/www
 wget -qO- 127.0.0.1
 
 ###Set Locale
-update-locale LANGUAGE=de_DE.UTF-8 LC_MESSAGES=POSIX
+update-locale LANGUAGE=de_CH.utf8 LC_MESSAGES=POSIX
+ntpdate ntp.ubuntu.com
 
 
 
