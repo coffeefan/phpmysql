@@ -1,0 +1,2 @@
+vagrant init
+vagrant box add chef/ubuntu-12.04
