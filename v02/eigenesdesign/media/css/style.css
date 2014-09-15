@@ -1,0 +1,156 @@
+html,body{
+    margin:0px;
+    padding: 0px;
+}
+
+*{
+
+}
+
+body{
+    font-family: 'Pacifico', cursive;
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+#headercontainer{
+    background: #FF7800;
+    height:65px;
+    border-bottom: solid 15px #FF4000;
+    -webkit-box-shadow: 0px 12px 63px -6px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 12px 63px -6px rgba(0,0,0,0.75);
+    box-shadow: 0px 12px 63px -6px rgba(0,0,0,0.75);
+}
+
+
+header h1{
+    display: block;
+    margin: 0px;
+    color: #FFFFFF;
+    font-size:30px;
+
+    float:left;
+}
+
+header li, header ul, header nav{
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+
+}
+
+header nav{
+    float:right;
+    width:320px;
+}
+
+header li a{
+    display: block;
+    float:left;
+    margin: 0px 10px 0px 0px;
+    width:80px;
+    background:#FF4000;
+    height:45px;
+    padding:10px;
+}
+
+header li:last-of-type{
+    margin-right:-10px;
+}
+
+header ul:after{
+    clear: both;
+}
+
+
+article{
+    float:left;
+    width:610px;
+    padding: 0px 20px 0px 0px;
+
+}
+
+aside{
+    float:right;
+    width:265px;
+    background: #FF7800;
+    border-top: solid 15px #FF4000;
+    color: #FFFFFF;
+    padding: 15px 15px 15px 40px;
+}
+
+aside .title{
+    display: block;
+    margin:0px 0px 20px 0px;
+    font-weight: bold;
+}
+
+#footercontainer{
+    position: fixed;
+    background: #FF7800;
+    height:65px;
+    border-top: solid 15px #FF4000;
+    bottom: 0px;
+    width: 100%;
+}
+
+
+footer{
+    color: #FFFFFF;
+}
+
+@media (min-width:950px) {
+    #main, header,footer{
+        width:950px;
+        margin: auto;
+    }
+}
+
+@media (max-width:768px) {
+
+    header h1{
+        height:65px;
+        width: 100%;
+    }
+
+    header nav{
+        width:100%;
+    }
+    #headercontainer{
+        height:130px;
+    }
+    article, aside{
+       float:none;
+       width: 100%;
+    }
+
+    header li a{
+        width: 33%;
+        padding: 10px;
+        height:65px;
+        margin-right: 10px;
+        text-align: center;
+        display: block;
+        -webkit-box-sizing: padding-box;
+        -moz-box-sizing: padding-box;
+
+
+    }
+
+}
+
+

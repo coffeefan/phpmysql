@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/web":{"guestpath":"/var/www/web","hostpath":"C:/Users/cbach_000/PhpstormProjects/php/vagrant/web","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/cbach_000/PhpstormProjects/php/vagrant","disabled":false}}}

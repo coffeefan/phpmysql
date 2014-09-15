@@ -30,6 +30,8 @@ sudo apt-get -q -y install mysql-server
 sudo apt-get install php5-mysql
 sudo apt-get install mysql-client-core-5.5
 
+sed -i "$cfg['Servers'][$i]['host'] = 'db_server';" /etc/phpmyadmin/config.inc.php
+
 
 ### PHP Config
 sed -i "s/error_reporting = .*/error_reporting = E_ALL/" /etc/php5/apache2/php.ini
