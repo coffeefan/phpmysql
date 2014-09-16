@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0caf659-dfa3-467a-bc3c-55b3ba617f99" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/error/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/verschachteln/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/while.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/email/phpmailer/PHPMailerAutoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/for.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/foreach.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/email/mailit.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/email/sendmail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/switch.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="php.iws" />
@@ -28,27 +31,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Vagrantfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant/Vagrantfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="12" selection-start="55" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Vagrantfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant2/Vagrantfile">
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="41" selection-start="372" selection-end="372" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="629">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="httpd.conf" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vagrant2/conf/httpd.conf">
           <provider selected="true" editor-type-id="text-editor">
@@ -58,31 +40,126 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v03/error/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v03/verschachteln/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="5" selection-start="229" selection-end="229" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="while.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="while.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v03/while.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="5" selection-start="124" selection-end="124" vertical-scroll-proportion="0.09798271" vertical-offset="0" max-vertical-offset="694">
+            <state line="4" column="5" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="425">
               <folding>
                 <element signature="e#131#214#0" expanded="true" />
+                <marker date="1410894288213" expanded="true" signature="3:117" placeholder="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="for.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v03/for.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="170">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foreach.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v03/foreach.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="31" selection-start="270" selection-end="270" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="442">
+              <folding>
+                <element signature="e#6#89#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="switch.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v03/switch.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="121" selection-end="121" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="459">
+              <folding>
+                <marker date="1410896539304" expanded="true" signature="73:120" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mailit.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v03/email/mailit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="27" selection-start="638" selection-end="638" vertical-scroll-proportion="0.7965261" vertical-offset="19" max-vertical-offset="1836">
+              <folding>
+                <marker date="1410900124609" expanded="true" signature="1348:4630" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1354:1609" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1644:1669" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1670:4622" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1670:4622" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1737:4615" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1737:4615" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1747:4607" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1751:1923" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1769:1785" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1930:2905" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="1947:1963" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2015:2897" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2015:2897" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2083:2892" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2083:2892" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2099:2884" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2103:2871" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2375:2427" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2466:2857" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2466:2857" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2505:2523" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2505:2523" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2538:2554" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2913:3852" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2930:2946" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2998:3844" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="2998:3844" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3066:3839" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3066:3839" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3082:3831" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3086:3818" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3297:3349" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3388:3804" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3388:3804" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3391:3609" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3391:3609" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3414:3432" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3447:3463" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3625:3799" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3859:4526" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3876:3895" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3946:4518" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="3946:4518" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="4014:4513" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="4014:4513" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="4028:4505" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="4050:4492" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="4183:4232" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="4286:4480" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="4286:4480" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="4533:4598" placeholder="..." />
+                <marker date="1410900124609" expanded="true" signature="4533:4598" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sendmail.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v03/email/sendmail.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PHPMailerAutoload.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v03/email/phpmailer/PHPMailerAutoload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.7307692" vertical-offset="19" max-vertical-offset="663">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,15 +180,6 @@
         <entry file="file://$PROJECT_DIR$/vagrant2/conf/xdebug.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state line="4" column="25" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="php.ini" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant2/conf/php.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="755" column="13" selection-start="30693" selection-end="30697" vertical-scroll-proportion="454.24" vertical-offset="24191" max-vertical-offset="30515">
               <folding />
             </state>
           </provider>
@@ -143,6 +211,11 @@
         <option value="$PROJECT_DIR$/v03/error/index.php" />
         <option value="$PROJECT_DIR$/v03/verschachteln/index.php" />
         <option value="$PROJECT_DIR$/v03/while.php" />
+        <option value="$PROJECT_DIR$/v03/for.php" />
+        <option value="$PROJECT_DIR$/v03/foreach.php" />
+        <option value="$PROJECT_DIR$/v03/switch.php" />
+        <option value="$PROJECT_DIR$/v03/email/sendmail.php" />
+        <option value="$PROJECT_DIR$/v03/email/mailit.php" />
       </list>
     </option>
   </component>
@@ -279,7 +352,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="verschachteln" />
+              <option name="myItemId" value="email" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -297,7 +370,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="error" />
+              <option name="myItemId" value="email" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpmailer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -308,6 +385,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cbach_000\PhpstormProjects\php\v03\email\phpmailer" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -340,20 +422,20 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32985657" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.471875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.471875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -594,6 +676,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/v03/while.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="5" selection-start="124" selection-end="124" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="425">
+          <folding>
+            <element signature="e#131#214#0" expanded="true" />
+            <marker date="1410894288213" expanded="true" signature="3:117" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v03/for.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v03/foreach.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="31" selection-start="270" selection-end="270" vertical-scroll-proportion="-9.153846" vertical-offset="0" max-vertical-offset="442">
+          <folding>
+            <element signature="e#6#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v03/email/phpmailer/PHPMailerAutoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.7307692" vertical-offset="19" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v03/switch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="121" selection-end="121" vertical-scroll-proportion="-4.576923" vertical-offset="0" max-vertical-offset="459">
+          <folding>
+            <marker date="1410896539304" expanded="true" signature="73:120" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v03/email/sendmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vagrant2/conf/xdebug.ini">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="25" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
@@ -601,25 +732,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v03/error/index.php">
+    <entry file="file://$PROJECT_DIR$/v03/email/mailit.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v03/verschachteln/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="229" selection-end="229" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v03/while.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="5" selection-start="124" selection-end="124" vertical-scroll-proportion="0.09798271" vertical-offset="0" max-vertical-offset="694">
+        <state line="20" column="27" selection-start="638" selection-end="638" vertical-scroll-proportion="0.7965261" vertical-offset="19" max-vertical-offset="1836">
           <folding>
-            <element signature="e#131#214#0" expanded="true" />
+            <marker date="1410900124609" expanded="true" signature="1348:4630" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1354:1609" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1644:1669" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1670:4622" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1670:4622" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1737:4615" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1737:4615" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1747:4607" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1751:1923" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1769:1785" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1930:2905" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="1947:1963" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2015:2897" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2015:2897" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2083:2892" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2083:2892" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2099:2884" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2103:2871" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2375:2427" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2466:2857" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2466:2857" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2505:2523" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2505:2523" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2538:2554" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2913:3852" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2930:2946" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2998:3844" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="2998:3844" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3066:3839" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3066:3839" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3082:3831" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3086:3818" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3297:3349" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3388:3804" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3388:3804" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3391:3609" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3391:3609" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3414:3432" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3447:3463" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3625:3799" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3859:4526" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3876:3895" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3946:4518" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="3946:4518" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="4014:4513" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="4014:4513" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="4028:4505" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="4050:4492" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="4183:4232" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="4286:4480" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="4286:4480" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="4533:4598" placeholder="..." />
+            <marker date="1410900124609" expanded="true" signature="4533:4598" placeholder="..." />
           </folding>
         </state>
       </provider>
