@@ -1,0 +1,31 @@
+### Dieses Vagrantfile wird für euch so nicht funktionieren und müsst ihr noch entsprechend anpassen (box url, networking, port forwarding)
+
+Vagrant.configure("2") do |config|
+  config.vm.box = "chef/ubuntu-12.04"
+
+  config.vm.network "private_network", ip: "127.0.0.1"
+
+  config.vm.network :forwarded_port, guest: 80, host: 4567
+
+  config.vm.synced_folder "../", "/phpdev/",
+    id: "vagrant-root",
+    :nfs => false, 
+    :owner => "vagrant",
+    :group => "www-data",
+    :mount_options => ["dmode=775","fmode=664"]
+
+  config.vm.usable_port_range = (2222..2222)
+
+
+  config.vm.provision :shell, :path => "provision.sh"
+
+  config.ssh.username = "vagrant"
+
+  config.ssh.shell = "bash -l"
+
+  config.ssh.keep_alive = true
+  config.ssh.forward_agent = false
+  config.ssh.forward_x11 = false
+  config.vagrant.host = :detect
+end
+

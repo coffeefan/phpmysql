@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0caf659-dfa3-467a-bc3c-55b3ba617f99" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v02/canvas/index.html" afterPath="$PROJECT_DIR$/v02/canvas/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/error/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/verschachteln/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v03/while.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="php.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,106 +28,90 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v02/h5bp/index.php">
+      <file leaf-file-name="Vagrantfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vagrant/Vagrantfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="0" selection-start="1704" selection-end="1704" vertical-scroll-proportion="-26.807692" vertical-offset="0" max-vertical-offset="799">
-              <folding>
-                <marker date="1410817021845" expanded="true" signature="271:1702" placeholder="..." />
-                <marker date="1410817021845" expanded="true" signature="295:727" placeholder="..." />
-                <marker date="1410817021845" expanded="true" signature="734:1694" placeholder="..." />
-                <marker date="1410817021845" expanded="true" signature="744:952" placeholder="..." />
-                <marker date="1410817021845" expanded="true" signature="989:1148" placeholder="..." />
-                <marker date="1410817021845" expanded="true" signature="1031:1137" placeholder="..." />
-                <marker date="1410817021845" expanded="true" signature="1181:1340" placeholder="..." />
-                <marker date="1410817021845" expanded="true" signature="1225:1314" placeholder="..." />
-                <marker date="1410817021845" expanded="true" signature="1400:1448" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/v02/canvas/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="32" selection-start="2714" selection-end="2714" vertical-scroll-proportion="1.583851" vertical-offset="527" max-vertical-offset="1802">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="navi.inc.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v02/h5bp/navi.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="221">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="aside.inc.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v02/h5bp/aside.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="8" selection-start="388" selection-end="388" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
-              <folding>
-                <marker date="1410816933403" expanded="true" signature="6:387" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="article.inc.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v02/h5bp/article.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="408">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.inc.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v02/h5bp/footer.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="4" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="153">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.sh" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant/bootstrap.sh">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="27" selection-start="1379" selection-end="1379" vertical-scroll-proportion="-34.68" vertical-offset="0" max-vertical-offset="969">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db_user.sql" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant/config/mysql/db_user.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="177" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.inc.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vagrant/config/phpMyAdmin/config.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="527">
+            <state line="4" column="12" selection-start="55" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Vagrantfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_old/Vagrantfile">
+        <entry file="file://$PROJECT_DIR$/vagrant2/Vagrantfile">
           <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="2" selection-start="577" selection-end="633" vertical-scroll-proportion="-0.0" vertical-offset="238" max-vertical-offset="2210">
+            <state line="9" column="41" selection-start="372" selection-end="372" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="629">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="httpd.conf" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vagrant2/conf/httpd.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="26" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v03/error/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v03/verschachteln/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="5" selection-start="229" selection-end="229" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="408">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="while.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v03/while.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="5" selection-start="124" selection-end="124" vertical-scroll-proportion="0.09798271" vertical-offset="0" max-vertical-offset="694">
+              <folding>
+                <element signature="e#131#214#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="provision.sh" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vagrant2/provision.sh">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="46" column="18" selection-start="1280" selection-end="1280" vertical-scroll-proportion="-2.96" vertical-offset="560" max-vertical-offset="2108">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xdebug.ini" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vagrant2/conf/xdebug.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="25" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="php.ini" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vagrant2/conf/php.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="755" column="13" selection-start="30693" selection-end="30697" vertical-scroll-proportion="454.24" vertical-offset="24191" max-vertical-offset="30515">
               <folding />
             </state>
           </provider>
@@ -149,15 +136,22 @@
         <option value="$PROJECT_DIR$/v02/h5bp/index.php" />
         <option value="$PROJECT_DIR$/v02/h5bp/robots.txt" />
         <option value="$PROJECT_DIR$/v02/canvas/index.html" />
+        <option value="$PROJECT_DIR$/vagrant2/conf/httpd.conf" />
+        <option value="$PROJECT_DIR$/vagrant2/Vagrantfile" />
+        <option value="$PROJECT_DIR$/vagrant2/provision.sh" />
+        <option value="$PROJECT_DIR$/vagrant2/conf/xdebug.ini" />
+        <option value="$PROJECT_DIR$/v03/error/index.php" />
+        <option value="$PROJECT_DIR$/v03/verschachteln/index.php" />
+        <option value="$PROJECT_DIR$/v03/while.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="724" />
-    <option name="y" value="197" />
-    <option name="width" value="1033" />
-    <option name="height" value="860" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -185,7 +179,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -204,7 +197,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vagrant" />
+              <option name="myItemId" value="vagrant2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -218,15 +211,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vagrant" />
+              <option name="myItemId" value="vagrant2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="phpMyAdmin" />
+              <option name="myItemId" value="conf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -240,47 +229,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vagrant" />
+              <option name="myItemId" value="vagrant2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
+              <option name="myItemId" value="conf" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="mysql" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vagrant" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="config" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="php" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="v02" />
+              <option name="myItemId" value="dot" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -304,12 +261,49 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="_old" />
+              <option name="myItemId" value="v03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="verschachteln" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="v03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="error" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,7 +335,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="724" y="197" width="1033" height="860" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -350,7 +344,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4719764" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.471875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -382,16 +376,67 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vagrant/Vagrantfile">
+    <entry file="file://$PROJECT_DIR$/v02/h5bp/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="60" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="357">
+        <state line="41" column="0" selection-start="1704" selection-end="1704" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v02/canvas/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="32" selection-start="2714" selection-end="2714" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1802">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v02/h5bp/navi.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v02/h5bp/aside.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="8" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="153">
+          <folding>
+            <marker date="1410816933403" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v02/h5bp/article.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v02/h5bp/footer.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="153">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vagrant/bootstrap.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+        <state line="51" column="27" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.0" vertical-offset="867" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vagrant/config/mysql/db_user.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="177" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vagrant/config/phpMyAdmin/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="595">
           <folding />
         </state>
       </provider>
@@ -407,27 +452,41 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vagrant/Vagrantfile">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="60" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+        <state line="5" column="60" selection-start="234" selection-end="234" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="357">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vagrant/bootstrap.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_old/Vagrantfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="2" selection-start="577" selection-end="633" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="2210">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/v02/h5bp/footer.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="4" selection-start="29" selection-end="29" vertical-scroll-proportion="-0.65384614" vertical-offset="0" max-vertical-offset="153">
+        <state line="1" column="4" selection-start="29" selection-end="29" vertical-scroll-proportion="0.023776224" vertical-offset="0" max-vertical-offset="715">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/v02/h5bp/aside.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="8" selection-start="388" selection-end="388" vertical-scroll-proportion="-1.9615384" vertical-offset="0" max-vertical-offset="153">
+        <state line="3" column="8" selection-start="388" selection-end="388" vertical-scroll-proportion="0.072649576" vertical-offset="0" max-vertical-offset="702">
           <folding>
-            <marker date="1410816933403" expanded="true" signature="6:387" placeholder="..." />
+            <marker date="1410816933403" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -448,24 +507,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v02/h5bp/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="0" selection-start="1704" selection-end="1704" vertical-scroll-proportion="-26.807692" vertical-offset="0" max-vertical-offset="799">
-          <folding>
-            <marker date="1410817021845" expanded="true" signature="271:1702" placeholder="..." />
-            <marker date="1410817021845" expanded="true" signature="295:727" placeholder="..." />
-            <marker date="1410817021845" expanded="true" signature="734:1694" placeholder="..." />
-            <marker date="1410817021845" expanded="true" signature="744:952" placeholder="..." />
-            <marker date="1410817021845" expanded="true" signature="989:1148" placeholder="..." />
-            <marker date="1410817021845" expanded="true" signature="1031:1137" placeholder="..." />
-            <marker date="1410817021845" expanded="true" signature="1181:1340" placeholder="..." />
-            <marker date="1410817021845" expanded="true" signature="1225:1314" placeholder="..." />
-            <marker date="1410817021845" expanded="true" signature="1400:1448" placeholder="..." />
-          </folding>
+        <state line="41" column="0" selection-start="1704" selection-end="1704" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="799">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vagrant/bootstrap.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="27" selection-start="1379" selection-end="1379" vertical-scroll-proportion="-34.68" vertical-offset="0" max-vertical-offset="969">
+        <state line="51" column="27" selection-start="1379" selection-end="1379" vertical-scroll-proportion="0.8549075" vertical-offset="266" max-vertical-offset="969">
           <folding />
         </state>
       </provider>
@@ -478,13 +527,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_old/Vagrantfile">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="2" selection-start="577" selection-end="633" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="2210">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vagrant/config/phpMyAdmin/config.inc.php">
@@ -496,8 +545,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v02/canvas/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="32" selection-start="2714" selection-end="2714" vertical-scroll-proportion="1.583851" vertical-offset="527" max-vertical-offset="1802">
+        <state line="91" column="32" selection-start="2714" selection-end="2714" vertical-scroll-proportion="-59.5" vertical-offset="0" max-vertical-offset="1802">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vagrant2/Vagrantfile">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="41" selection-start="372" selection-end="372" vertical-scroll-proportion="-6.12" vertical-offset="0" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vagrant2/conf/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="755" column="13" selection-start="30693" selection-end="30697" vertical-scroll-proportion="454.24" vertical-offset="24191" max-vertical-offset="30515">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vagrant/Vagrantfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="12" selection-start="55" selection-end="74" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vagrant2/provision.sh">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="18" selection-start="1280" selection-end="1280" vertical-scroll-proportion="-2.96" vertical-offset="560" max-vertical-offset="2108">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vagrant2/conf/httpd.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="26" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vagrant2/conf/xdebug.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="25" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v03/error/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="91" selection-end="91" vertical-scroll-proportion="-2.6153846" vertical-offset="0" max-vertical-offset="238">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v03/verschachteln/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="5" selection-start="229" selection-end="229" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v03/while.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="5" selection-start="124" selection-end="124" vertical-scroll-proportion="0.09798271" vertical-offset="0" max-vertical-offset="694">
+          <folding>
+            <element signature="e#131#214#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
