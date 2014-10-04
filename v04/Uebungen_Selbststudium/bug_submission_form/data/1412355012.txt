@@ -1,0 +1,11 @@
+--------------------------------------------------------------------
+| BUG-REPORT                                                       |
+--------------------------------------------------------------------
+Name:Chris
+E-Mail:christianbachmann@outlook.com
+Web:www.20min.ch
+Fehlerreport:Mein Fehler ist schlimme
+Prio:6
+Bugtype:1
+Rückruf:Nein
+Datum:2014-10-10

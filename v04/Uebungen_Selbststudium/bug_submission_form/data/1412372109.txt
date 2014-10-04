@@ -1,0 +1,11 @@
+--------------------------------------------------------------------
+| BUG-REPORT                                                       |
+--------------------------------------------------------------------
+Name:test
+E-Mail:christianbachmann@outlook.com
+Web:http://www.inaffect.net
+Fehlerreport:Ich habe einen riesigen Fehler gmacht. bitte verzeiht mir!!!!
+Prio:7
+Bugtype:1
+Rückruf:Ja
+Datum:2014-10-03

@@ -1,0 +1,9 @@
+
+Name:Chris\n
+E-Mail:christianbachmann@outlook.com\n
+Web:www.20min.ch\n
+Fehlerreport:Mein Fehler ist schlimme\n
+Prio:6\n
+Bugtype:1\n
+Rückruf:Nein\n
+Datum:2014-10-10

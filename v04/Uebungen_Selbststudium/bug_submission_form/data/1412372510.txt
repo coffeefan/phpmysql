@@ -1,0 +1,12 @@
+--------------------------------------------------------------------
+| BUG-REPORT                                                       |
+--------------------------------------------------------------------
+Name:test
+E-Mail:christianbachmann@outlook.com
+Web:http://www.inaffect.net
+Fehlerreport:I love meeee
+Ich bin so klug!
+Prio:7
+Bugtype:2
+Rückruf:Ja
+Datum:2014-10-03
