@@ -1,0 +1,7 @@
+[blogpostid]141270928354343ba39d701[/blogpostid]
+[time]07.10.2014 21:14[/time]
+[title]Sicherheitslücke bei UPC Cablecom aufgedeckt[/title]
+[content]Die Sicherheitslücke war gravierend: UPC-Cablecom-Kunden, die sich über den My-UPC-Service einloggten, hatten bis heute Nachmittag Zugriff auf Telefondaten und Rechnungen anderer Cablecom-Kunden. Das berichtet die SRF-Sendung «10vor10» von heute Dienstagabend. Demnach war es möglich, nicht nur eigene UPC-Rechnungen als PDF-Dateien herunterzuladen, sondern auch die Daten Tausender anderer Kunden des Kabelnetzbetreibers. Nötig war dazu einzig eine Manipulation im Browser. In der URL für das PDF erschien nämlich die Rechnungsnummer als Zahl. Änderte man diese, erhielt man die Rechnung mit der entsprechenden Nummer.
+
+Wie SRF weiter berichtet, habe das Unternehmen die Sicherheitslücke am Dienstag gegen 15.30 Uhr geschlossen, «nachdem ‹10vor10› die UPC Cablecom informiert hat». Danach war die PDF-Generierung für Rechnungen in My UPC für einige Stunden deaktiviert gewesen. Seit 19.30 Uhr funktioniere der Service wieder «einwandfrei», teilt Marc Maurer von UPC mit. Gemäss dem UPC-Pressesprecher bedeutet dies, dass das Sicherheitsleck in My UPC behoben sei.
+[/content]

@@ -143,7 +143,7 @@ function submitBugShowForm($data){
         <div class="control-group">
             <div class="controls">
                 <label class="rueckruf">
-                    <input type="checkbox" name="rueckruf" > Rückruf erforderlich
+                    <input type="checkbox" name="rueckruf" g> Rückruf erforderlich
                 </label>
             </div>
         </div>
