@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0caf659-dfa3-467a-bc3c-55b3ba617f99" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/posts/1412706529543430e1b107f.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/posts/14127066865434317ea495e.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/posts/14127079585434367614c82.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/posts/141270928354343ba39d701.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/posts/141270995354343e418f102.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/authentification.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/authentification.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/blogmanager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/blogpostform.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/config.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/create.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/delete.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/edit.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v06/uebungen/fibonacci.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/css/fileinput.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/css/fileinput.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/js/fileinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/js/fileinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/filewriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/filewriter.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/login.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v06/uebungen/parents.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/media/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/media/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/todomanager.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/template4pruefung/validation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/todoapp/validation.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/media/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/media/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/submitbug.php" afterPath="$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/submitbug.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="c0caf659-dfa3-467a-bc3c-55b3ba617f99" name="Default" comment="" />
     <ignored path="php.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -157,7 +105,7 @@
       <file leaf-file-name="todomanager.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todoapp/todomanager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="0.28070176" vertical-offset="0" max-vertical-offset="1020">
+            <state line="16" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="0.406577" vertical-offset="0" max-vertical-offset="1020">
               <folding>
                 <marker date="1413813682699" expanded="true" signature="375:457" placeholder="Select todoi..todos..." />
                 <marker date="1413813682699" expanded="true" signature="736:827" placeholder="INSERT INTO ..." />
@@ -250,8 +198,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1176" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -344,7 +292,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -353,7 +301,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.171875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -682,7 +630,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todoapp/todomanager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="0.28070176" vertical-offset="0" max-vertical-offset="1020">
+        <state line="16" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="0.406577" vertical-offset="0" max-vertical-offset="1020">
           <folding>
             <marker date="1413813682699" expanded="true" signature="375:457" placeholder="Select todoi..todos..." />
             <marker date="1413813682699" expanded="true" signature="736:827" placeholder="INSERT INTO ..." />
