@@ -1,4 +1,4 @@
-<?
+<?php
 
 
 function newDBConnection(){
@@ -46,7 +46,7 @@ function changStatus($status,$todoid){
 
 function deleteTodo($todoid){
     $db=newDBConnection();
-    $stmt = $db->prepare("Delte from todos where todoid=:todoid");
+    $stmt = $db->prepare("Delete from todos where todoid=:todoid");
     $stmt->execute(array(':todoid' => $todoid));
     $affected_rows = $stmt->rowCount();
 }

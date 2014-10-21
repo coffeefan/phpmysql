@@ -1,7 +1,5 @@
 <?php
 session_start();
-require_once realpath(dirname(__FILE__))."/config.php";
-require_once realpath(dirname(__FILE__))."/login.php";
 require_once realpath(dirname(__FILE__))."/home.php";
 ?>
 

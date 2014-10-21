@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0caf659-dfa3-467a-bc3c-55b3ba617f99" name="Default" comment="" />
+    <list default="true" id="c0caf659-dfa3-467a-bc3c-55b3ba617f99" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\cbach_000\PhpstormProjects\php\todoapp\authentification.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbach_000\PhpstormProjects\php\todoapp\config.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbach_000\PhpstormProjects\php\todoapp\filewriter.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\cbach_000\PhpstormProjects\php\todoapp\login.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todoapp/home.php" afterPath="$PROJECT_DIR$/todoapp/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todoapp/index.php" afterPath="$PROJECT_DIR$/todoapp/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todoapp/todomanager.php" afterPath="$PROJECT_DIR$/todoapp/todomanager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="php.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,41 +35,16 @@
       <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todoapp/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="88" column="68" selection-start="3454" selection-end="3454" vertical-scroll-proportion="-14.038462" vertical-offset="1131" max-vertical-offset="2142">
-              <folding>
-                <marker date="1413813638800" expanded="true" signature="2003:2986" placeholder="..." />
-                <marker date="1413813638800" expanded="true" signature="2029:2986" placeholder="..." />
-                <marker date="1413813638800" expanded="true" signature="2181:2222" placeholder="..." />
-                <marker date="1413813638800" expanded="true" signature="2198:2222" placeholder="..." />
-                <marker date="1413813638800" expanded="true" signature="2968:3465" placeholder="..." />
-                <marker date="1413813638800" expanded="true" signature="2968:2986" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="validation.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/validation.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="37" selection-start="2535" selection-end="2535" vertical-scroll-proportion="-27.115385" vertical-offset="638" max-vertical-offset="1632">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="2142">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/index.php">
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/todoapp/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="14" selection-start="773" selection-end="1211" vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="1122">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/todoapp/login.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1207">
+            <state line="2" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.047552448" vertical-offset="0" max-vertical-offset="1122">
               <folding />
             </state>
           </provider>
@@ -69,60 +53,23 @@
       <file leaf-file-name="validation.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todoapp/validation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="31" selection-start="318" selection-end="346" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510">
+            <state line="10" column="1" selection-start="251" selection-end="251" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.min.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/media/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="106006" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/todoapp/media/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="5" selection-start="232" selection-end="232" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="submitbug.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/submitbug.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="51" selection-start="2367" selection-end="2385" vertical-scroll-proportion="-16.5" vertical-offset="880" max-vertical-offset="3043">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="todomanager.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="todomanager.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todoapp/todomanager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="0.406577" vertical-offset="0" max-vertical-offset="1020">
+            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1020">
               <folding>
-                <marker date="1413813682699" expanded="true" signature="375:457" placeholder="Select todoi..todos..." />
-                <marker date="1413813682699" expanded="true" signature="736:827" placeholder="INSERT INTO ..." />
-                <marker date="1413813682699" expanded="true" signature="1057:1139" placeholder="Update todos..." />
-                <marker date="1413813682699" expanded="true" signature="1063:1118" placeholder="INSERT INTO ..." />
-                <marker date="1413813682699" expanded="true" signature="1410:1462" placeholder="Update todos..." />
-                <marker date="1413813682699" expanded="true" signature="1672:1699" placeholder="Update todos..." />
+                <marker date="1413909760149" expanded="true" signature="378:460" placeholder="Select todoi..todos..." />
+                <marker date="1413909760149" expanded="true" signature="739:830" placeholder="INSERT INTO ..." />
+                <marker date="1413909760149" expanded="true" signature="1060:1142" placeholder="Update todos..." />
+                <marker date="1413909760149" expanded="true" signature="1413:1465" placeholder="Update todos..." />
+                <marker date="1413909760149" expanded="true" signature="1665:1703" placeholder="Delete from ..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/todoapp/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-28.115385" vertical-offset="0" max-vertical-offset="1156">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -186,11 +133,11 @@
         <option value="$PROJECT_DIR$/todoapp/media/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/todoapp/validation.php" />
         <option value="$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/index.php" />
-        <option value="$PROJECT_DIR$/todoapp/index.php" />
         <option value="$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/media/css/bootstrap.min.css" />
         <option value="$PROJECT_DIR$/todoapp/media/css/style.css" />
-        <option value="$PROJECT_DIR$/todoapp/home.php" />
         <option value="$PROJECT_DIR$/todoapp/todomanager.php" />
+        <option value="$PROJECT_DIR$/todoapp/home.php" />
+        <option value="$PROJECT_DIR$/todoapp/index.php" />
       </list>
     </option>
   </component>
@@ -246,6 +193,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="todoapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -293,7 +254,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -301,7 +262,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -309,11 +270,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45762712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -335,6 +296,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/todoapp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0" vertical-offset="731" max-vertical-offset="1156">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/v03/email/phpmailer/PHPMailerAutoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935" />
@@ -474,16 +442,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template4pruefung/media/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="991" column="2" selection-start="13670" selection-end="14044" vertical-scroll-proportion="-11.8" vertical-offset="16552" max-vertical-offset="104941">
-          <folding />
-        </state>
+        <state line="991" column="2" selection-start="13670" selection-end="14044" vertical-scroll-proportion="-11.8" vertical-offset="16552" max-vertical-offset="104941" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template4pruefung/media/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="5" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding />
-        </state>
+        <state line="24" column="5" selection-start="462" selection-end="462" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template4pruefung/login.php">
@@ -503,9 +467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template4pruefung/blogmanager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="1" selection-start="1311" selection-end="1311" vertical-scroll-proportion="0.6615385" vertical-offset="190" max-vertical-offset="986">
-          <folding />
-        </state>
+        <state line="39" column="1" selection-start="1311" selection-end="1311" vertical-scroll-proportion="0.6615385" vertical-offset="190" max-vertical-offset="986" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template4pruefung/create.php">
@@ -515,9 +477,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template4pruefung/blogpostform.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="9" selection-start="182" selection-end="195" vertical-scroll-proportion="0.06713287" vertical-offset="37" max-vertical-offset="986">
-          <folding />
-        </state>
+        <state line="5" column="9" selection-start="182" selection-end="195" vertical-scroll-proportion="0.06713287" vertical-offset="37" max-vertical-offset="986" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template4pruefung/index.php">
@@ -532,16 +492,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todoapp/media/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="38556">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todoapp/config.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="102">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="38556" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/_superglobals.php">
@@ -553,49 +504,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todoapp/media/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="109353" selection-start="109518" selection-end="109518" vertical-scroll-proportion="0.06614786" vertical-offset="0" max-vertical-offset="1028">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/submitbug.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="51" selection-start="2367" selection-end="2385" vertical-scroll-proportion="-16.5" vertical-offset="880" max-vertical-offset="3043">
-          <folding />
-        </state>
+        <state line="4" column="109353" selection-start="109518" selection-end="109518" vertical-scroll-proportion="0.06614786" vertical-offset="0" max-vertical-offset="1028" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="14" selection-start="773" selection-end="1211" vertical-scroll-proportion="-21.576923" vertical-offset="0" max-vertical-offset="1122">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todoapp/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-28.115385" vertical-offset="0" max-vertical-offset="1156">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todoapp/login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1207">
+        <state line="33" column="14" selection-start="773" selection-end="1211" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="1122">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/validation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="37" selection-start="2535" selection-end="2535" vertical-scroll-proportion="-27.115385" vertical-offset="638" max-vertical-offset="1632">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/todoapp/validation.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="31" selection-start="318" selection-end="346" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="510">
+        <state line="84" column="37" selection-start="2535" selection-end="2535" vertical-scroll-proportion="0.0" vertical-offset="1428" max-vertical-offset="1717">
           <folding />
         </state>
       </provider>
@@ -614,31 +535,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todoapp/home.php">
+    <entry file="file://$PROJECT_DIR$/v04/Uebungen_Selbststudium/bug_submission_form/submitbug.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="88" column="68" selection-start="3454" selection-end="3454" vertical-scroll-proportion="-14.038462" vertical-offset="1131" max-vertical-offset="2142">
-          <folding>
-            <marker date="1413813638800" expanded="true" signature="2003:2986" placeholder="..." />
-            <marker date="1413813638800" expanded="true" signature="2029:2986" placeholder="..." />
-            <marker date="1413813638800" expanded="true" signature="2181:2222" placeholder="..." />
-            <marker date="1413813638800" expanded="true" signature="2198:2222" placeholder="..." />
-            <marker date="1413813638800" expanded="true" signature="2968:3465" placeholder="..." />
-            <marker date="1413813638800" expanded="true" signature="2968:2986" placeholder="..." />
-          </folding>
+        <state line="77" column="51" selection-start="2367" selection-end="2385" vertical-scroll-proportion="1.8307692" vertical-offset="0" max-vertical-offset="3043">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todoapp/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="251" selection-end="251" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="510">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/todoapp/todomanager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="471" selection-end="471" vertical-scroll-proportion="0.406577" vertical-offset="0" max-vertical-offset="1020">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
           <folding>
-            <marker date="1413813682699" expanded="true" signature="375:457" placeholder="Select todoi..todos..." />
-            <marker date="1413813682699" expanded="true" signature="736:827" placeholder="INSERT INTO ..." />
-            <marker date="1413813682699" expanded="true" signature="1057:1139" placeholder="Update todos..." />
-            <marker date="1413813682699" expanded="true" signature="1063:1118" placeholder="INSERT INTO ..." />
-            <marker date="1413813682699" expanded="true" signature="1410:1462" placeholder="Update todos..." />
-            <marker date="1413813682699" expanded="true" signature="1672:1699" placeholder="Update todos..." />
+            <marker date="1413909760149" expanded="true" signature="378:460" placeholder="Select todoi..todos..." />
+            <marker date="1413909760149" expanded="true" signature="739:830" placeholder="INSERT INTO ..." />
+            <marker date="1413909760149" expanded="true" signature="1060:1142" placeholder="Update todos..." />
+            <marker date="1413909760149" expanded="true" signature="1413:1465" placeholder="Update todos..." />
+            <marker date="1413909760149" expanded="true" signature="1665:1703" placeholder="Delete from ..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todoapp/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2142">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todoapp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="23" selection-end="23" vertical-scroll-proportion="0.047552448" vertical-offset="0" max-vertical-offset="1122">
+          <folding />
         </state>
       </provider>
     </entry>

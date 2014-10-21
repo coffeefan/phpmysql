@@ -1,4 +1,4 @@
-<?
+<?php
 require_once realpath(dirname(__FILE__))."/todomanager.php";
 require_once realpath(dirname(__FILE__))."/validation.php";
 function homeController(){
