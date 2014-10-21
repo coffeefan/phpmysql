@@ -22,3 +22,5 @@ function checkDateField($field,$feldname){
     return $errortxt;
 }
 
+?>
+

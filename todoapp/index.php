@@ -36,7 +36,7 @@ require_once realpath(dirname(__FILE__))."/home.php";
 
 
 
-        <?
+        <?php
 
                 homeController();
 

@@ -60,7 +60,7 @@ function showHome(){
 
     <div class="table-responsive">
     <table class="table">
-<?
+<?php
     $todos=showTodos();
     foreach($todos as $todo){
         if(isset($_GET["edit"])&&$_GET["edit"]==$todo["todoid"]){
@@ -69,42 +69,42 @@ function showHome(){
         <tr>
             <td>
             <form class="form-inline" role="form" method="POST" action="index.php">
-                <input type="hidden" name="todoid" value="<? echo  $todo["todoid"] ?>">
+                <input type="hidden" name="todoid" value="<?php echo  $todo["todoid"] ?>">
                 <div class="row">
-                    <div class="col-md-6"><input name="description" type="text" value="<? echo  $todo["description"] ?>" /></div>
-                    <div class="col-md-4"><input id="deadline" name="deadline" type="date" value="<? echo  $todo["deadline"] ?>"   /></div>
+                    <div class="col-md-6"><input name="description" type="text" value="<?php echo  $todo["description"] ?>" /></div>
+                    <div class="col-md-4"><input id="deadline" name="deadline" type="date" value="<?php echo  $todo["deadline"] ?>"   /></div>
                     <div class="col-md-2"><button type="submit" class="btn btn-default"  >Aktualisieren</button></div>
                 </div>
             </form>
            </td>
         </tr>
-        <? } else {?>
-        <tr class="<? if( $todo["status"]==="completed") echo 'completed';?>">
+        <?php } else {?>
+        <tr class="<?php if( $todo["status"]==="completed") echo 'completed';?>">
             <td >
-                <? if( $todo["status"]==="completed"){?>
-                    <input name="status" type="checkbox"  onchange="window.location='index.php?uncompleted=<?echo $todo["todoid"]?>'" checked="checked" />
-                <?} else {?>
-                    <input name="status" type="checkbox"  onchange="window.location='index.php?completed=<?echo $todo["todoid"]?>'" />
-                <?}?>
-                </td><td><? echo showDate($todo["deadline"]);?><br/><?echo $todo["description"];?> </td>
-                <td ><a class="btn btn-primary" href="index.php?delete=<?echo $todo["todoid"];?>">Löschen</a></td>
+                <?php if( $todo["status"]==="completed"){?>
+                    <input name="status" type="checkbox"  onchange="window.location='index.php?uncompleted=<?php echo $todo["todoid"]?>'" checked="checked" />
+                <?php} else {?>
+                    <input name="status" type="checkbox"  onchange="window.location='index.php?completed=<?php echo $todo["todoid"]?>'" />
+                <?php}?>
+                </td><td><?php echo showDate($todo["deadline"]);?><br/><?php echo $todo["description"];?> </td>
+                <td ><a class="btn btn-primary" href="index.php?delete=<?php echo $todo["todoid"];?>">Löschen</a></td>
         </tr>
 
-        <? } ?>
+        <?php } ?>
 
-    <?}?>
+    <?php}?>
     </table>
     </div>
-<?}
+<?php}
 
 
 
 function ShowErrorMessage($errotxt){
     ?>
     <p class="error">Es sind folgende Fehlermeldungen aufgetreten:<br/>
-        <? echo $errotxt?>
+        <?php echo $errotxt?>
     </p>
-<?
+<?php
 }
 
 
