@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c0caf659-dfa3-467a-bc3c-55b3ba617f99" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todoapp/home.php" afterPath="$PROJECT_DIR$/todoapp/home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todoapp/index.php" afterPath="$PROJECT_DIR$/todoapp/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todoapp/validation.php" afterPath="$PROJECT_DIR$/todoapp/validation.php" />
     </list>
     <ignored path="php.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,10 +25,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="home.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todoapp/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="0" selection-start="4127" selection-end="4127" vertical-scroll-proportion="-26.192308" vertical-offset="1359" max-vertical-offset="2142">
+            <state line="94" column="10" selection-start="3702" selection-end="3702" vertical-scroll-proportion="0.33426574" vertical-offset="1359" max-vertical-offset="2142">
               <folding />
             </state>
           </provider>
@@ -45,10 +43,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validation.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="validation.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/todoapp/validation.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="2" selection-start="527" selection-end="527" vertical-scroll-proportion="0.57062936" vertical-offset="0" max-vertical-offset="715">
+            <state line="24" column="2" selection-start="527" selection-end="527" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="544">
               <folding />
             </state>
           </provider>
@@ -131,8 +129,8 @@
         <option value="$PROJECT_DIR$/todoapp/media/css/style.css" />
         <option value="$PROJECT_DIR$/todoapp/todomanager.php" />
         <option value="$PROJECT_DIR$/todoapp/index.php" />
-        <option value="$PROJECT_DIR$/todoapp/home.php" />
         <option value="$PROJECT_DIR$/todoapp/validation.php" />
+        <option value="$PROJECT_DIR$/todoapp/home.php" />
       </list>
     </option>
   </component>
@@ -287,7 +285,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -537,13 +535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todoapp/home.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="0" selection-start="4127" selection-end="4127" vertical-scroll-proportion="-26.192308" vertical-offset="1359" max-vertical-offset="2142">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/todoapp/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="41" column="0" selection-start="932" selection-end="932" vertical-scroll-proportion="-12.384615" vertical-offset="375" max-vertical-offset="1122">
@@ -566,7 +557,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todoapp/validation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="2" selection-start="527" selection-end="527" vertical-scroll-proportion="0.57062936" vertical-offset="0" max-vertical-offset="715">
+        <state line="24" column="2" selection-start="527" selection-end="527" vertical-scroll-proportion="-15.692307" vertical-offset="0" max-vertical-offset="544">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todoapp/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="10" selection-start="3702" selection-end="3702" vertical-scroll-proportion="0.33426574" vertical-offset="1359" max-vertical-offset="2142">
           <folding />
         </state>
       </provider>

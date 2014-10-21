@@ -83,19 +83,19 @@ function showHome(){
             <td >
                 <?php if( $todo["status"]==="completed"){?>
                     <input name="status" type="checkbox"  onchange="window.location='index.php?uncompleted=<?php echo $todo["todoid"]?>'" checked="checked" />
-                <?php} else {?>
+                <?php } else {?>
                     <input name="status" type="checkbox"  onchange="window.location='index.php?completed=<?php echo $todo["todoid"]?>'" />
-                <?php}?>
+                <?php }?>
                 </td><td><?php echo showDate($todo["deadline"]);?><br/><?php echo $todo["description"];?> </td>
                 <td ><a class="btn btn-primary" href="index.php?delete=<?php echo $todo["todoid"];?>">Löschen</a></td>
         </tr>
 
         <?php } ?>
 
-    <?php}?>
+    <?php }?>
     </table>
     </div>
-<?php}
+<?php }
 
 
 
