@@ -1,4 +1,5 @@
 <?php
+
 class Post {
         
         private $id;
@@ -6,7 +7,6 @@ class Post {
         private $title;
         private $content;
         
-        // row table gateway functionality
         public function findByID($id) {
             $sqltxt = "SELECT * FROM tbl_person WHERE id = :id";
                 $fieldValueMapping = array(':id'=>$id);

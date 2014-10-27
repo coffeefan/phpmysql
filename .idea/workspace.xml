@@ -2,27 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0caf659-dfa3-467a-bc3c-55b3ba617f99" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/img/glyphicons-halflings-white.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/img/glyphicons-halflings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/css/bootstrap-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/css/bootstrap-responsive.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/database.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/css/fileinput.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/js/fileinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/post.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/posttablegateway.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/v07/media/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vagrant2/.vagrant/machines/default/virtualbox/action_provision" afterPath="$PROJECT_DIR$/vagrant2/.vagrant/machines/default/virtualbox/action_provision" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vagrant2/.vagrant/machines/default/virtualbox/action_set_name" afterPath="$PROJECT_DIR$/vagrant2/.vagrant/machines/default/virtualbox/action_set_name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vagrant2/.vagrant/machines/default/virtualbox/id" afterPath="$PROJECT_DIR$/vagrant2/.vagrant/machines/default/virtualbox/id" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vagrant2/.vagrant/machines/default/virtualbox/index_uuid" afterPath="$PROJECT_DIR$/vagrant2/.vagrant/machines/default/virtualbox/index_uuid" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v07/home.php" afterPath="$PROJECT_DIR$/v07/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v07/post.php" afterPath="$PROJECT_DIR$/v07/post.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/v07/posttablegateway.php" afterPath="$PROJECT_DIR$/v07/posttablegateway.php" />
     </list>
     <ignored path="php.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -111,29 +93,22 @@
       <file leaf-file-name="posttablegateway.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v07/posttablegateway.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="16" selection-start="1733" selection-end="1733" vertical-scroll-proportion="-17.384615" vertical-offset="432" max-vertical-offset="1173">
-              <folding>
-                <marker date="1414424224477" expanded="true" signature="80:119" placeholder="SELECT * FRO..tbl_person..." />
-                <marker date="1414424224477" expanded="true" signature="412:467" placeholder="SELECT * FRO..tbl_person..." />
-                <marker date="1414424224477" expanded="true" signature="737:761" placeholder="SELECT * FRO..tbl_person..." />
-                <marker date="1414424224477" expanded="true" signature="970:1054" placeholder="INSERT INTO ..." />
-                <marker date="1414424224477" expanded="true" signature="1387:1478" placeholder="UPDATE tbl_p..." />
-                <marker date="1414424224477" expanded="true" signature="1785:1820" placeholder="DELETE FROM ..." />
-              </folding>
+            <state line="2" column="24" selection-start="31" selection-end="31" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="1173">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v07/home.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="176" column="46" selection-start="6114" selection-end="6114" vertical-scroll-proportion="0.4857997" vertical-offset="2667" max-vertical-offset="3536">
+            <state line="10" column="41" selection-start="261" selection-end="261" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="3825">
               <folding>
-                <marker date="1414433839299" expanded="true" signature="4361:4376" placeholder="..." />
-                <marker date="1414433839299" expanded="true" signature="4361:4381" placeholder="..." />
-                <marker date="1414433839299" expanded="true" signature="4900:5083" placeholder="..." />
-                <marker date="1414433839299" expanded="true" signature="5413:5580" placeholder="..." />
-                <marker date="1414433839299" expanded="true" signature="6015:6182" placeholder="..." />
+                <marker date="1414434573512" expanded="true" signature="4790:4805" placeholder="..." />
+                <marker date="1414434573512" expanded="true" signature="4790:4810" placeholder="..." />
+                <marker date="1414434573512" expanded="true" signature="5329:5512" placeholder="..." />
+                <marker date="1414434573512" expanded="true" signature="5842:6009" placeholder="..." />
+                <marker date="1414434573512" expanded="true" signature="6444:6611" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -142,26 +117,26 @@
       <file leaf-file-name="post.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v07/post.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="16" selection-start="524" selection-end="524" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="1700">
+            <state line="10" column="29" selection-start="198" selection-end="204" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="1700">
               <folding>
-                <marker date="1414432884385" expanded="true" signature="240:279" placeholder="SELECT * FRO..tbl_person..." />
-                <marker date="1414432884385" expanded="true" signature="862:946" placeholder="INSERT INTO ..." />
-                <marker date="1414432884385" expanded="true" signature="1290:1328" placeholder="SELECT * FRO..tbl_person..." />
-                <marker date="1414432884385" expanded="true" signature="1328:1419" placeholder="UPDATE tbl_p..." />
-                <marker date="1414432884385" expanded="true" signature="1758:1793" placeholder="DELETE FROM ..." />
-                <marker date="1414432884385" expanded="true" signature="1864:1916" placeholder="SELECT * FRO..tbl_person..." />
-                <marker date="1414432884385" expanded="true" signature="2137:2161" placeholder="SELECT * FRO..tbl_person..." />
-                <marker date="1414432884385" expanded="true" signature="2419:2503" placeholder="INSERT INTO ..." />
-                <marker date="1414432884385" expanded="true" signature="2640:2731" placeholder="UPDATE tbl_p..." />
+                <marker date="1414434593987" expanded="true" signature="198:237" placeholder="SELECT * FRO..tbl_person..." />
+                <marker date="1414434593987" expanded="true" signature="820:904" placeholder="INSERT INTO ..." />
+                <marker date="1414434593987" expanded="true" signature="1248:1286" placeholder="SELECT * FRO..tbl_person..." />
+                <marker date="1414434593987" expanded="true" signature="1286:1377" placeholder="UPDATE tbl_p..." />
+                <marker date="1414434593987" expanded="true" signature="1716:1751" placeholder="DELETE FROM ..." />
+                <marker date="1414434593987" expanded="true" signature="1822:1874" placeholder="SELECT * FRO..tbl_person..." />
+                <marker date="1414434593987" expanded="true" signature="2095:2119" placeholder="SELECT * FRO..tbl_person..." />
+                <marker date="1414434593987" expanded="true" signature="2377:2461" placeholder="INSERT INTO ..." />
+                <marker date="1414434593987" expanded="true" signature="2598:2689" placeholder="UPDATE tbl_p..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="database.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/v07/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="38" selection-start="285" selection-end="285" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="833">
+            <state line="11" column="38" selection-start="285" selection-end="285" vertical-scroll-proportion="0.26945245" vertical-offset="0" max-vertical-offset="833">
               <folding />
             </state>
           </provider>
@@ -225,12 +200,12 @@
         <option value="$PROJECT_DIR$/todoapp/home.php" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/v07/postmanager.php" />
-        <option value="$PROJECT_DIR$/v07/posttablegateway.php" />
         <option value="$PROJECT_DIR$/v07/config.php" />
         <option value="$PROJECT_DIR$/v07/database.php" />
-        <option value="$PROJECT_DIR$/v07/post.php" />
-        <option value="$PROJECT_DIR$/v07/home.php" />
         <option value="$PROJECT_DIR$/v07/index.php" />
+        <option value="$PROJECT_DIR$/v07/home.php" />
+        <option value="$PROJECT_DIR$/v07/post.php" />
+        <option value="$PROJECT_DIR$/v07/posttablegateway.php" />
       </list>
     </option>
   </component>
@@ -380,19 +355,19 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.45762712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.171875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.171875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.45762712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -657,54 +632,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/v07/post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="16" selection-start="524" selection-end="524" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="1700">
-          <folding>
-            <marker date="1414432884385" expanded="true" signature="240:279" placeholder="SELECT * FRO..tbl_person..." />
-            <marker date="1414432884385" expanded="true" signature="862:946" placeholder="INSERT INTO ..." />
-            <marker date="1414432884385" expanded="true" signature="1290:1328" placeholder="SELECT * FRO..tbl_person..." />
-            <marker date="1414432884385" expanded="true" signature="1328:1419" placeholder="UPDATE tbl_p..." />
-            <marker date="1414432884385" expanded="true" signature="1758:1793" placeholder="DELETE FROM ..." />
-            <marker date="1414432884385" expanded="true" signature="1864:1916" placeholder="SELECT * FRO..tbl_person..." />
-            <marker date="1414432884385" expanded="true" signature="2137:2161" placeholder="SELECT * FRO..tbl_person..." />
-            <marker date="1414432884385" expanded="true" signature="2419:2503" placeholder="INSERT INTO ..." />
-            <marker date="1414432884385" expanded="true" signature="2640:2731" placeholder="UPDATE tbl_p..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v07/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="285" selection-end="285" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="833">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v07/posttablegateway.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="16" selection-start="1733" selection-end="1733" vertical-scroll-proportion="-17.384615" vertical-offset="432" max-vertical-offset="1173">
-          <folding>
-            <marker date="1414424224477" expanded="true" signature="80:119" placeholder="SELECT * FRO..tbl_person..." />
-            <marker date="1414424224477" expanded="true" signature="412:467" placeholder="SELECT * FRO..tbl_person..." />
-            <marker date="1414424224477" expanded="true" signature="737:761" placeholder="SELECT * FRO..tbl_person..." />
-            <marker date="1414424224477" expanded="true" signature="970:1054" placeholder="INSERT INTO ..." />
-            <marker date="1414424224477" expanded="true" signature="1387:1478" placeholder="UPDATE tbl_p..." />
-            <marker date="1414424224477" expanded="true" signature="1785:1820" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/hs1314-phpmysql-master (1)/hs1314-phpmysql-master/V7/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="155" column="34" selection-start="4200" selection-end="4200" vertical-scroll-proportion="-5.1153846" vertical-offset="2502" max-vertical-offset="3434">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/v07/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="229" selection-end="229" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="1071">
           <folding />
         </state>
       </provider>
@@ -716,16 +646,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/v07/posttablegateway.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="24" selection-start="31" selection-end="31" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="1173">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v07/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="29" selection-start="198" selection-end="204" vertical-scroll-proportion="-6.5384617" vertical-offset="0" max-vertical-offset="1700">
+          <folding>
+            <marker date="1414434593987" expanded="true" signature="198:237" placeholder="SELECT * FRO..tbl_person..." />
+            <marker date="1414434593987" expanded="true" signature="820:904" placeholder="INSERT INTO ..." />
+            <marker date="1414434593987" expanded="true" signature="1248:1286" placeholder="SELECT * FRO..tbl_person..." />
+            <marker date="1414434593987" expanded="true" signature="1286:1377" placeholder="UPDATE tbl_p..." />
+            <marker date="1414434593987" expanded="true" signature="1716:1751" placeholder="DELETE FROM ..." />
+            <marker date="1414434593987" expanded="true" signature="1822:1874" placeholder="SELECT * FRO..tbl_person..." />
+            <marker date="1414434593987" expanded="true" signature="2095:2119" placeholder="SELECT * FRO..tbl_person..." />
+            <marker date="1414434593987" expanded="true" signature="2377:2461" placeholder="INSERT INTO ..." />
+            <marker date="1414434593987" expanded="true" signature="2598:2689" placeholder="UPDATE tbl_p..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v07/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="229" selection-end="229" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="1071">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/v07/home.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="46" selection-start="6114" selection-end="6114" vertical-scroll-proportion="0.4857997" vertical-offset="2667" max-vertical-offset="3536">
+        <state line="10" column="41" selection-start="261" selection-end="261" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="3825">
           <folding>
-            <marker date="1414433839299" expanded="true" signature="4361:4376" placeholder="..." />
-            <marker date="1414433839299" expanded="true" signature="4361:4381" placeholder="..." />
-            <marker date="1414433839299" expanded="true" signature="4900:5083" placeholder="..." />
-            <marker date="1414433839299" expanded="true" signature="5413:5580" placeholder="..." />
-            <marker date="1414433839299" expanded="true" signature="6015:6182" placeholder="..." />
+            <marker date="1414434573512" expanded="true" signature="4790:4805" placeholder="..." />
+            <marker date="1414434573512" expanded="true" signature="4790:4810" placeholder="..." />
+            <marker date="1414434573512" expanded="true" signature="5329:5512" placeholder="..." />
+            <marker date="1414434573512" expanded="true" signature="5842:6009" placeholder="..." />
+            <marker date="1414434573512" expanded="true" signature="6444:6611" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v07/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="38" selection-start="285" selection-end="285" vertical-scroll-proportion="0.26945245" vertical-offset="0" max-vertical-offset="833">
+          <folding />
         </state>
       </provider>
     </entry>

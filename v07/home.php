@@ -1,8 +1,12 @@
 <?php
 require_once realpath(dirname(__FILE__))."/post.php";
 require_once realpath(dirname(__FILE__))."/posttablegateway.php";
+
+
 class HomeController{
+
     public function show(){
+
         echo"<h2>Data Post Table</h2>";
         $this->makeSampleDataPostTable();
         $this->makePostTableRequests();
@@ -11,6 +15,7 @@ class HomeController{
         $postids=$this->makeSampleDataPostRowData();
         $this->makePostRequestRowData($postids);
     }
+
 
     public function makeSampleDataPostTable(){
         $postTableGateway = new PostTableGateway();
@@ -35,9 +40,21 @@ class HomeController{
         $post3->setTitle("Mein 3. Eintrag");
         $post3->setContent("Hier ist der 3. Inhalt");
 
+        $post4 = new Post;
+        $post4->setCreated("2014-10-24");
+        $post4->setTitle("Mein 4. Eintrag");
+        $post4->setContent("Hier ist der 4. Inhalt");
+
+        $post5 = new Post;
+        $post5->setCreated("2014-10-26");
+        $post5->setTitle("Mein 5. Eintrag");
+        $post5->setContent("Hier ist der 5. Inhalt");
+
         $postTableGateway->create($post1);
         $postTableGateway->create($post2);
         $postTableGateway->create($post3);
+        $postTableGateway->create($post4);
+        $postTableGateway->create($post5);
     }
 
     public function makeSampleDataPostRowData(){
@@ -74,7 +91,7 @@ class HomeController{
         # print all rows
         echo '<p>Alle Posts anzeigen anhand eines Arrays</p>';
         echo '<table class="table">';
-        echo '<tr><th>Created</th><th>Title</th><th>Content</th></tr>';
+        echo '<tr><th>Erstellt</th><th>Titel</th><th>Inhalt</th></tr>';
         foreach ($postids as $postid) {
             $post=new Post();
             $post->findByID($postid);
@@ -89,7 +106,7 @@ class HomeController{
 
         echo '<p>Einzelner Post anzeigen, mit ID '.$postids[0].'</p>';
         echo '<table class="table">';
-        echo '<tr><th>Created</th><th>Title</th><th>Content</th></tr>';
+        echo '<tr><th>Erstellt</th><th>Titel</th><th>Inhalt</th></tr>';
         $post = new Post;
         $post->findById($postids[0]);
         echo '<tr>';
@@ -107,7 +124,7 @@ class HomeController{
 
         echo '<p>Der Aktualisierte Post('.$postids[0].')</p>';
         echo '<table class="table">';
-        echo '<tr><th>Created</th><th>Title</th><th>Content</th></tr>';
+        echo '<tr><th>Erstellt</th><th>Titel</th><th>Inhalt</th></tr>';
         $post = new Post;
         $post->findById($postids[0]);
         echo '<tr>';
@@ -126,7 +143,7 @@ class HomeController{
         $postTableGateway = new PostTableGateway();
         echo '<p>Alle Posts </p>';
         echo '<table class="table">';
-        echo '<tr><th>Created</th><th>Title</th><th>Content</th></tr>';
+        echo '<tr><th>Erstellt</th><th>Titel</th><th>Inhalt</th></tr>';
         foreach ($postTableGateway->findAll() as $post) {
             echo '<tr>';
             echo '<td>'.$post->getCreated().'</td>';
@@ -138,7 +155,7 @@ class HomeController{
 
         echo '<p>Alle Post welche das Attribut created= "2014-10-24": </p>';
         echo '<table class="table">';
-        echo '<tr><th>Created</th><th>Title</th><th>Content</th></tr>';
+        echo '<tr><th>Erstellt</th><th>Titel</th><th>Inhalt</th></tr>';
         $lastID=0;
         foreach ($postTableGateway->findByAttribute('created', '2014-10-24') as $post) {
             echo '<tr>';
@@ -153,7 +170,7 @@ class HomeController{
 
         echo '<p>Post in Datenbank unter ID = '.$lastID.'anzeigen</p>';
         echo '<table class="table">';
-        echo '<tr><th>Created</th><th>Title</th><th>Content</th></tr>';
+        echo '<tr><th>Erstellt</th><th>Titel</th><th>Inhalt</th></tr>';
         $post = $postTableGateway->findById($lastID);
         echo '<tr>';
         echo '<td>'.$post->getCreated().'</td>';
@@ -170,7 +187,7 @@ class HomeController{
 
         echo '<p>Anzeige des aktualisiereten Eintrags ('.$lastID.')</p>';
         echo '<table class="table">';
-        echo '<tr><th>Created</th><th>Title</th><th>Content</th></tr>';
+        echo '<tr><th>Erstellt</th><th>Titel</th><th>Inhalt</th></tr>';
         $post = $postTableGateway->findById($lastID);
         echo '<tr>';
         echo '<td>'.$post->getCreated().'</td>';
