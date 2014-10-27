@@ -1,0 +1,22 @@
+input{
+    width:100%;
+    height:34px;
+}
+
+.newtodo{
+    margin:0px 0px 20px 0px;
+}
+
+.completed td{
+    text-decoration: line-through;
+    color: #CCCCCC;;
+}
+
+.completed td a.btn{
+    background:#CCCCCC;
+    border:#CCCCCC;
+}
+
+.date{
+    font-size: 10px;
+}
