@@ -1,0 +1,4 @@
+[blogpostid]1412706529543430e1b107f[/blogpostid]
+[time]07.10.2014 20:28[/time]
+[title]Testtitel jeeetzt[/title]
+[content]Der Inhalt ist nun upgedated[/content]
